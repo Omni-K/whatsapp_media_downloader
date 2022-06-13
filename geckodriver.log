@@ -1,0 +1,233 @@
+1655016240513	geckodriver	INFO	Listening on 127.0.0.1:50081
+1655016240547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3tv4IA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655016247577	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3tv4IA/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:54145/devtools/browser/dd036d15-94e6-4f73-b4c8-9590d472516c
+1655016264712	Marionette	INFO	Listening on port 45465
+Read port: 45465
+1655016265226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1655018245174	geckodriver	INFO	Listening on 127.0.0.1:33141
+1655018245620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemHIjN9"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655018255134	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemHIjN9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34157/devtools/browser/3fdaff8e-0630-4a66-9772-a49fd538bcda
+1655018272672	Marionette	INFO	Listening on port 44549
+Read port: 44549
+1655018273127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+1655018996561	Marionette	INFO	Stopped listening on port 44549
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655019574878	Marionette	INFO	Stopped listening on port 45465
+1655092758060	geckodriver	INFO	Listening on 127.0.0.1:49105
+1655092758519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelXqPoB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655092761722	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelXqPoB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60709/devtools/browser/422482eb-ade5-4e74-aeaa-3c42cb499c0f
+1655092772670	Marionette	INFO	Listening on port 42071
+Read port: 42071
+1655092772800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Error while calling actor 'source's method 'source'" "Could not load the source for wasm:https://web.whatsapp.com/libsignal-protocol-c387645.min.js%20line%201%20%3E%20WebAssembly.instantiate.\nError: WebAssembly binary source is not available\nStack: _getSourceText@resource://devtools/server/actors/source.js:210:20\nsource@resource://devtools/server/actors/source.js:590:51\nhandler@resource://devtools/shared/protocol/Actor.js:175:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\n_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18\nemit@resource://gre/modules/EventEmitter.jsm:160:20\nreceiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:482:21\nLine: 210, column: 20"
+console.error: (new Error("Could not load the source for wasm:https://web.whatsapp.com/libsignal-protocol-c387645.min.js%20line%201%20%3E%20WebAssembly.instantiate.\nError: WebAssembly binary source is not available\nStack: _getSourceText@resource://devtools/server/actors/source.js:210:20\nsource@resource://devtools/server/actors/source.js:590:51\nhandler@resource://devtools/shared/protocol/Actor.js:175:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\n_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18\nemit@resource://gre/modules/EventEmitter.jsm:160:20\nreceiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:482:21\nLine: 210, column: 20", "resource://devtools/server/actors/source.js", 609))
+console.warn: "sourceContents failed: Error: Protocol error (Error): Could not load the source for wasm:https://web.whatsapp.com/libsignal-protocol-c387645.min.js%20line%201%20%3E%20WebAssembly.instantiate.\nError: WebAssembly binary source is not available\nStack: _getSourceText@resource://devtools/server/actors/source.js:210:20\nsource@resource://devtools/server/actors/source.js:590:51\nhandler@resource://devtools/shared/protocol/Actor.js:175:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\n_onPacketReceived@resource://devtools/shared/transport/js-window-actor-transport.js:48:18\nemit@resource://gre/modules/EventEmitter.jsm:160:20\nreceiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:482:21\nLine: 210, column: 20 from: server0.conn1.windowGlobal4294967298/source67 (resource://devtools/server/actors/source.js:609:13)"
+console.warn: "Action loadSourceText had an exception:" (new Error("Unknown source", "resource://devtools/client/debugger/src/actions/sources/loadSourceText.js", 73))
+console.error: "[COMPATIBILITY_UPDATE_TOP_LEVEL_TARGET_FAILURE] Connection closed, pending request to server0.conn1.windowGlobal4294967298/compatibility91, type getNodeCssIssues failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getNodeIssues@resource://devtools/client/inspector/compatibility/actions/compatibility.js:251:55\n"
+console.error: "baseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:106:23\ndestroy@resource://devtools/shared/protocol/Front.js:74:10\ndestroy@resource://devtools/shared/protocol/Pool.js:211:17\nbaseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:110:13\ndestroy@resource://devtools/shared/protocol/Front.js:74:10\ndestroy@resource://devtools/client/fronts/inspector.js:137:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:627:17\n"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1655093571821	geckodriver	INFO	Listening on 127.0.0.1:37429
+1655093571834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZrwKTW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655093576521	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZrwKTW/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1655093588133	Marionette	INFO	Stopped listening on port 42071
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+DevTools listening on ws://localhost:49419/devtools/browser/7845e4db-c0a2-44d9-8c7f-131c3f442cf2
+1655093594609	Marionette	INFO	Listening on port 46855
+Read port: 46855
+1655093594777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1655093814074	geckodriver	INFO	Listening on 127.0.0.1:42959
+1655093814082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepz4QcT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655093815028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepz4QcT/search.json.mozlz4", (void 0)))
+1655093825188	Marionette	INFO	Stopped listening on port 46855
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:47677/devtools/browser/5612435f-11dd-4fca-9cfa-0934259be00e
+1655093826376	Marionette	INFO	Listening on port 39909
+Read port: 39909
+1655093826549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1655094491839	geckodriver	INFO	Listening on 127.0.0.1:42645
+1655094491890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF8K4wM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655094494558	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF8K4wM/search.json.mozlz4", (void 0)))
+1655094501728	Marionette	INFO	Stopped listening on port 39909
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:42147/devtools/browser/d16980b3-afcc-4e44-8f75-a7a95a206cf7
+1655094507032	Marionette	INFO	Listening on port 33521
+Read port: 33521
+1655094507164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1655094802367	Marionette	INFO	Stopped listening on port 33521
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655094806661	geckodriver	INFO	Listening on 127.0.0.1:50521
+1655094806669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48955" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevKMzHg"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655094807861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevKMzHg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48955/devtools/browser/2f8490b6-5f2d-41bb-bcd1-a74a8fc3b236
+1655094816090	Marionette	INFO	Listening on port 37001
+Read port: 37001
+1655094816233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1655095039996	geckodriver	INFO	Listening on 127.0.0.1:39931
+1655095040004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9c4CwZ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655095041073	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9c4CwZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58783/devtools/browser/723d021e-66ae-4405-bff3-5662960f10f8
+1655095053411	Marionette	INFO	Listening on port 33529
+Read port: 33529
+1655095053477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1655095095595	Marionette	INFO	Stopped listening on port 37001
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1655095594163	geckodriver	INFO	Listening on 127.0.0.1:43077
+1655095594173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyTPEEA"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655095595260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyTPEEA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36383/devtools/browser/3730e372-445e-484c-b432-78edf9f16935
+1655095606156	Marionette	INFO	Listening on port 33637
+Read port: 33637
+1655095606379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1655095668338	Marionette	INFO	Stopped listening on port 33529
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655095708503	Marionette	INFO	Stopped listening on port 33637
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1655095709023	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 963: Error: Error(s) encountered during statement execution: disk I/O error
+[2022-06-13T04:48:29Z ERROR glean] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655095949074	geckodriver	INFO	Listening on 127.0.0.1:52563
+1655095949086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile72kUlG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655095950254	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile72kUlG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52349/devtools/browser/43814ba0-02db-434b-bb91-fb1ab2de936f
+1655095958762	Marionette	INFO	Listening on port 40229
+Read port: 40229
+1655095958835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+1655096671286	geckodriver	INFO	Listening on 127.0.0.1:59783
+1655096671403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePc0hNt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1655096673239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePc0hNt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33291/devtools/browser/ac7079e7-df04-46f9-a52a-7e4f862bf57e
+1655096684511	Marionette	INFO	Listening on port 35129
+Read port: 35129
+1655096684553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_main.16f0e3503ad5f4047d6b.js, line 8: unreachable code after return statement
